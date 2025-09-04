@@ -281,3 +281,4 @@ if __name__ == "__main__":
     print("A * x =", A * x)  # 3×2 * 2 -> 3
     y = Vector([1, 1, 1])
     print("y * (A*B) =", y * (A * B))  # (1×3) * (3×3) -> (1×3) → Vector
+    print("I'm", 'Just', 'Ken', "!")
